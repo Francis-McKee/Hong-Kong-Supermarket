@@ -1,6 +1,6 @@
 # Hong Kong Supermarket
 
-A responsive business website developed to establish a dedicated online presence for a local Asian grocery store in Greenville, North Carolina.
+A responsive business website developed to establish a dedicated online presence for a local Asian grocery store in Winterville, North Carolina.
 
 **Live Website:** [Hong Kong Supermarket](https://hkmarketgreenvillenc.com/)
 
@@ -26,11 +26,11 @@ The project presented an opportunity to:
 
 ## My Solution
 
-I developed a responsive website using HTML, CSS, JavaScript, and Jekyll, while also improving the business's existing digital presence.
+I developed a responsive website using HTML, CSS, and Jekyll, while also improving the business's existing digital presence.
 
 ### Website Development
 
-- Developed the website using HTML, CSS, JavaScript, and Jekyll.
+- Developed the website using HTML, CSS, and Jekyll.
 - Created a responsive layout that accommodates desktop and mobile devices.
 - Implemented responsive navigation.
 - Integrated Google Maps to help customers locate the store.
@@ -124,7 +124,7 @@ Suggested screenshots:
 
 ## About the Developer
 
-Developed by **Francis N. McKee**, founder of Francis N. McKee & Associates, LLC.
+Developed by **Francis McKee**, founder of Francis N. McKee & Associates, LLC.
 
 I help small businesses establish and improve their online presence through practical website development, digital visibility, and customer-focused web solutions.
 
