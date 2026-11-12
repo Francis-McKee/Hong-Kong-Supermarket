@@ -78,8 +78,6 @@ These updates helped maintain consistency between the supermarket's website and 
 - Google Maps
 - Google Analytics
 
-**Development approach:** AI-assisted CSS styling
-
 ## Results and Impact
 
 The project delivered Hong Kong Supermarket's first dedicated website and expanded its existing online presence.
